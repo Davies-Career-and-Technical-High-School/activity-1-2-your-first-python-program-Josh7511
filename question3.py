@@ -1,1 +1,3 @@
-print(3)
+print("  ^   ^  ")
+print("( o   o )")
+print("    v    ")
